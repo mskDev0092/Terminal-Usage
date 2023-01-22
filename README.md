@@ -6,7 +6,7 @@
 |2. Linux Terminal Basic Commands | 
 |3. Linux Terminal Important Commands | 
 |4. Git Commands |
-|5. Mongoose Commands |
+|5. Mongoosh Commands |
 
 
 # Linux Terminal User Important Commands 👨🏻‍💻
@@ -33,7 +33,11 @@
 
 - Repository URL: [https://github.com/mskDev0092/Linux-Terminal-Commands](https://github.com/mskDev0092/Linux-Terminal-Commands)
 
+## 4. Here is a list of Mongoose commands to manage MongoDB database as a Developer.
 
+![screenshot](https://miro.medium.com/max/1400/1*RQxKTG-qD7MvqAhhYJemaQ.png)
+
+- Repository URL: [https://github.com/mskDev0092/Mongoose-Commands-](https://github.com/mskDev0092/Mongoose-Commands-)
 
 
 
