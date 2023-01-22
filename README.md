@@ -1,4 +1,4 @@
-# Terminal-Usage
+# Terminal-Use
 
 | Table of Contents  |
 | --- |
@@ -10,7 +10,7 @@
 
 
 
-# Linux Terminal User Important Commands 👨🏻‍💻
+# Linux Important Commands for Terminal users  👨🏻‍💻
 
 > Terminal is a command-line interface that allows users to interact with the operating system, giving them direct access to programs and files. It is commonly used to run commands, launch applications, manage files, and access network resources. Terminal can also be used to monitor system resources, such as CPU and memory usage, and to troubleshoot errors. Additionally, it can be used to automate tasks by writing and running scripts.
 
