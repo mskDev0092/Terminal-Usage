@@ -28,9 +28,9 @@
 
 - Repository URL: [https://github.com/mskDev0092/General-Linux-commands](https://github.com/mskDev0092/General-Linux-commands)
 
-## 3. Here is a list of Linux commands to Dive in terminal as a Developer.
+## 3. Here is a list of Linux commands to Dive into terminal as a Developer.
 
-![screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Command_line.png/702px-Command_line.png)
+![screenshot](https://funprojectsdotblog.files.wordpress.com/2020/11/awk_title.png)
 
 - Repository URL: [https://github.com/mskDev0092/Linux-Terminal-Commands](https://github.com/mskDev0092/Linux-Terminal-Commands)
 
