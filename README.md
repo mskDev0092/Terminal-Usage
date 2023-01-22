@@ -2,7 +2,11 @@
 
 # Links to 
 | Table of Contents  |
-|Arch Linux Commands | Linux Terminal Commands | Git Commands |
+|1. Arch Linux Commands |
+|2. Linux Terminal Basic Commands | 
+|3. Linux Terminal Important Commands | 
+|4. Git Commands |
+|5. Mongoose Commands |
 
 
 # Linux Terminal User Important Commands 👨🏻‍💻
@@ -13,6 +17,6 @@
 
 ## 1. Arch Linux is the best distro for beginners to learn linux here are some commands to learn before arching. 
 
-![screenshot](https://images.app.goo.gl/Jy6heajoxEeDDqcN9)
+![screenshot] (https://images.app.goo.gl/Jy6heajoxEeDDqcN9)
 
 - Repository URL: [https://github.com/mskDev0092/Basic-Linux-Admin-Commands](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)
