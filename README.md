@@ -5,8 +5,9 @@
 |1. Arch Linux Commands |
 |2. Linux Terminal Basic Commands | 
 |3. Linux Terminal Important Commands | 
-|4. Git Commands |
-|5. Mongoosh Commands |
+|4. Mongoose Commands |
+|5. Git Commands |
+
 
 
 # Linux Terminal User Important Commands 👨🏻‍💻
@@ -39,6 +40,11 @@
 
 - Repository URL: [https://github.com/mskDev0092/Mongoose-Commands-](https://github.com/mskDev0092/Mongoose-Commands-)
 
+## 5. Here is a list of Git commands.
+
+![screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_session.svg/1024px-Git_session.svg.png)
+
+- Repository URL: [https://github.com/mskDev0092/GIT-Commands](https://github.com/mskDev0092/GIT-Commands)
 
 
 
