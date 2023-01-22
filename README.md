@@ -17,7 +17,7 @@
 
 ## 1. Arch Linux is the best distro for beginners to learn linux here are some commands to learn before arching. 
 
-![screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Archlinux-logo-standard-version.png/250px-Archlinux-logo-standard-version.png)
+![screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Example_of_pacman_in_Arch_Linux_screenshot.png/800px-Example_of_pacman_in_Arch_Linux_screenshot.png)
 
 - Repository URL: [https://github.com/mskDev0092/Basic-Linux-Admin-Commands](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)
 
