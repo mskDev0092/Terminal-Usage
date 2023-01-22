@@ -1,7 +1,7 @@
 # Terminal-Usage
 
 # Links to 
-                     | Table of Contents       |
+| Table of Contents  |
 |Arch Linux Commands | Linux Terminal Commands | Git Commands |
 
 
@@ -13,6 +13,6 @@
 
 ## 1. Arch Linux is the best distro for beginners to learn linux here are some commands to learn before arching. 
 
-![screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArch_Linux&psig=AOvVaw0pi5K616tMAYpwR8VQAGoP&ust=1674452943436000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKj6hbu92vwCFQAAAAAdAAAAABAD)
+![screenshot](https://images.app.goo.gl/Jy6heajoxEeDDqcN9)
 
 - Repository URL: [https://github.com/mskDev0092/Basic-Linux-Admin-Commands](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)
