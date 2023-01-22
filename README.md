@@ -20,3 +20,10 @@
 ![screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Archlinux-logo-standard-version.png/250px-Archlinux-logo-standard-version.png)
 
 - Repository URL: [https://github.com/mskDev0092/Basic-Linux-Admin-Commands](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)
+
+## 2. Here is a list of 40 basic Linux commands to live in terminal.
+
+![screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Command_line.png/702px-Command_line.png)
+
+- Repository URL: [https://github.com/mskDev0092/General-Linux-commands](https://github.com/mskDev0092/General-Linux-commands)
+
