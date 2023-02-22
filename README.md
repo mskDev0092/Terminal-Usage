@@ -8,7 +8,7 @@
 | 4. [Mongoose Commands](https://github.com/mskDev0092/Terminal-Usage#4-here-is-a-list-of-mongoose-commands-to-manage-mongodb-database-as-a-developer)                               |
 | 5. [Git Commands](https://github.com/mskDev0092/Terminal-Usage#5-here-is-a-list-of-git-commands)    
 
-
+| 6. [Coming Soon!]()  |
 
 # Linux Important Commands for Terminal users  👨🏻‍💻
 
