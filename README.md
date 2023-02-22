@@ -22,7 +22,7 @@
 
 - Repository URL: [https://github.com/mskDev0092/Basic-Linux-Admin-Commands](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)
 
-## 2. Here is a list of 40 basic Linux commands to live in terminal.
+## 2. Here is a list of basic Linux commands to live in terminal.
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Command_line.png/702px-Command_line.png)
 
