@@ -1,12 +1,12 @@
 # Terminal-Use
 
-| Table of Contents  |
-| --- |
-|1. Arch Linux Commands |
-|2. Linux Terminal Basic Commands | 
-|3. Linux Terminal Important Commands | 
-|4. Mongoose Commands |
-|5. Git Commands |
+| Table of Contents                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. [Arch Linux Commands](https://github.com/mskDev0092/Terminal-Usage#1-arch-linux-is-the-best-distro-for-beginners-to-learn-linux-here-are-some-commands-to-learn-before-arching) |
+| 2. [Linux Terminal Basic Commands](https://github.com/mskDev0092/Terminal-Usage#2-here-is-a-list-of-basic-linux-commands-to-live-in-terminal)                                      |
+| 3. [Linux Terminal Important Commands](https://github.com/mskDev0092/Terminal-Usage#3-here-is-a-list-of-linux-commands-to-dive-into-terminal-as-a-developer)                       |
+| 4. [Mongoose Commands](https://github.com/mskDev0092/Terminal-Usage#4-here-is-a-list-of-mongoose-commands-to-manage-mongodb-database-as-a-developer)                               |
+| 5. [Git Commands](https://github.com/mskDev0092/Terminal-Usage#5-here-is-a-list-of-git-commands)    
 
 
 
